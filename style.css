@@ -2,6 +2,8 @@
 @import url("banner.css");
 @import url("carrossel.css");
 @import url("topicos.css");
+@import url("contato.css");
+@import url("rodapé.css");
 
 :root {
     --cor-de-fundo: #AFE5E9;
